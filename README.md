@@ -24,3 +24,4 @@ elements.
 
 The means for defining rules to HTML structure in order change presentation is
 a rule specification format called "Cascading Style Sheets" or "CSS."
+<p data-visibility='hidden'>PHRG Separation of Content and Presentation</p>
