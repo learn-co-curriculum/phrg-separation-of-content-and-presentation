@@ -24,4 +24,9 @@ elements.
 
 The means for defining rules to HTML structure in order change presentation is
 a rule specification format called "Cascading Style Sheets" or "CSS."
+
+## Does this need an update?
+
+Please open a [GitHub issue](https://github.com/learn-co-curriculum/phrg-separation-of-content-and-presentation/issues) or [pull-request](https://github.com/learn-co-curriculum/phrg-separation-of-content-and-presentation/pulls). Provide a detailed description that explains the issue you have found or the change you are proposing. Then "@" mention your instructor on the issue or pull-request, and send them a link via Connect.
+
 <p data-visibility='hidden'>PHRG Separation of Content and Presentation</p>
